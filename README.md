@@ -3,15 +3,15 @@
 
 <div align="center">
 
-# [Your Name]
+# Coltin Smith
 
 **Senior Full-Stack Engineer · Enterprise Risk & Fintech · BNY**
 
 *Building financial systems where failure isn't an option.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Your%20City%2C%20PA-lightgrey?style=flat-square)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/coltin-smith-22334612a)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:ColtinSmith781@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Pittsburgh%2C%20PA-lightgrey?style=flat-square)](#)
 
 </div>
 
